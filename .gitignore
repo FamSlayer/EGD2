@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Also get rid of Config files?
+Config/*
